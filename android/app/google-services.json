@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531872363297",
+    "project_id": "signin1-907a5",
+    "storage_bucket": "signin1-907a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531872363297:android:c722dc6145b057e68f4460",
+        "android_client_info": {
+          "package_name": "com.example.talk_ing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531872363297-72hf2q9gfd4u71bgfqk5pcrf950buqdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talk_ing",
+            "certificate_hash": "38f009494edb62c2d270d81e95cce87e1086eda5"
+          }
+        },
+        {
+          "client_id": "531872363297-72v7njt5mpva4mgphvbe0j2h86q89ahc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0pJXGMwXo_GGt1jZPkMoCPkj5yB--QtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531872363297-72v7njt5mpva4mgphvbe0j2h86q89ahc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
